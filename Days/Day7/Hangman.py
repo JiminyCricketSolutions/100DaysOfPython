@@ -3,7 +3,7 @@
 import random
 
 # Word Library
-word_list = ["aardvark", "baboon", "camel", "cwm", "translation", "tesselation", "linguistically", "sequential logic", "nonce"]
+word_list = ["aardvark", "baboon", "camel", "cwm", "translation", "tesselation", "linguistically", "sequential logic", "nonce", "irate"]
 # ASCII art
 stages = ['''
   +---+

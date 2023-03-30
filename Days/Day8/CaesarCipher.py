@@ -23,7 +23,7 @@ def encrypt() :
 
 
 def decrypt():
-    message = input("What message would you like to decrypt? : ")
+    message = input("What message would you like to decrypt? : ").lower()
     paradigm_shift = int(input("What was the paradigm shift used for the encryption of this message? : "))
     returnval = ""
     for char in message:
